@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.codingchallenge.springboot.app.zipcode</groupId>
-	<artifactId>springboot-zip-code</artifactId>
+	<artifactId>zipcode</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>springboot-zip-code</name>
 	<description>Spring Boot ZipCodes</description>
